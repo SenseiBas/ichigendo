@@ -1,35 +1,36 @@
 # test 1
 ```expander
 tag:#impact  and -tag:#impact/B
--[[$filename]]
+- [[$filename]]
 ```
  
--[[JKD Basisblokken]]
--[[JKD Stand en voetenwerk]]
--[[JKDAanvalspunten]]
--[[Parry and Covers]]
--[[Physical sensation Drills]]
--[[Trapping]]
+- [[JKD Basisblokken]]
+- [[JKD Stand en voetenwerk]]
+- [[JKDAanvalspunten]]
+- [[Parry and Covers]]
+- [[Physical sensation Drills]]
+- [[Trapping]]
+- [[Note 4]]
  
 <--->
 
 # test 2
 ```expander
 tag:#impact/A
--[[$filename]]
+- [[$filename]]
 ```
  
--[[JKD Basisblokken]]
--[[JKD Stand en voetenwerk]]
--[[JKD Uitwijkbewegingen]]
--[[JKDAanvalspunten]]
--[[Pangamot uitwijk bewegingen]]
--[[Pangamut Defend]]
--[[Parry and Covers]]
--[[Physical sensation Drills]]
--[[The five ways of attack]]
--[[Trapping]]
--[[walking balance]]
--[[Wallwork]]
+- [[JKD Basisblokken]]
+- [[JKD Stand en voetenwerk]]
+- [[JKD Uitwijkbewegingen]]
+- [[JKDAanvalspunten]]
+- [[Pangamot uitwijk bewegingen]]
+- [[Pangamut Defend]]
+- [[Parry and Covers]]
+- [[Physical sensation Drills]]
+- [[The five ways of attack]]
+- [[Trapping]]
+- [[walking balance]]
+- [[Wallwork]]
  
 <--->
