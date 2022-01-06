@@ -1,0 +1,2 @@
+Half Diamnond Standing
+Regular

@@ -1,0 +1,1 @@
+1. Kan olisi Barak Stationary 
