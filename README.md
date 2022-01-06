@@ -1,4 +1,5 @@
 # Publish your Obsidian Notes
+[online documentation](https://github.com/jobindj/obsidian-publish-mkdocs/blob/main/README.md)
 
 (MkDocs template)
 
