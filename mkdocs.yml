@@ -2,7 +2,6 @@ site_name: Ichigendo Lesstof
 
 theme:
     name: 'material'
-    custom_dir: 'custom_theme/'
     palette:
 
     # Light mode
@@ -22,7 +21,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-
+extra_css:
+  - stylesheets/extra.css
 # Extensions
 markdown_extensions:
   - footnotes
