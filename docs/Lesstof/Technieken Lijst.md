@@ -1,4 +1,4 @@
- {==Dit is gewoon wat tekst ==}
+ {-- Dit is gewoon wat tekst --}
 
 
 ```expander
