@@ -1,11 +1,10 @@
-{--
 ```expander
 tag:#impact
-^--}
+^# Impact
 $filename
 ```
  
---}
+# Impact
 2 count combi serie
 Impact Pressure Games
 JKD Basisblokken
