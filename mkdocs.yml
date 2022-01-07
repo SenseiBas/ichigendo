@@ -27,6 +27,7 @@ extra_css:
 markdown_extensions:
   - footnotes
   # - attr_list
+  - pymdownx.critic
   # - pymdownx.arithmatex
   # - pymdownx.superfences
   # - pymdownx.details
