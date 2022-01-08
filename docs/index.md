@@ -5,17 +5,42 @@ Ichigendo is een combinatie van Martial Arts training, Lichamelijke training en 
 
 ----
 
-## Martial Arts
+### Martial Arts
 Het Martial Arts programma van Ichigendo is opgedeeld in een aantal blokken. De technieken uit deze blokken komen uit [[verschillende krijgskunsten]]. Deze blokken overlappen elkaar en vormen zo een compleet martial arts systeem. 
 Binnen ieder blok worden er "empty hand" en "gewapende" technieken getraind. 
 
-----
-## Mind
-Een aantal [[Ichigendo principes]] komen iedere les, maar ook daar buiten terug. 
-Deze principes zijn de rode draad binnen de "do" van ichigendo
+Een goede martial artist kan contact maken met de ander en binnen de techniek nonverbaal communiceren. Ziet steeds meer diepgang in de techniek en kan problemen in een gevecht oplossen als een puzzel. 
+
+De kernpunten binnen onze martial arts zijn dus.
+- Diepgang  en begrip Zoeken (de aha momenten)
+- Samenwerking (sinawali of meegaan met een worp)
+- Vraag en antwoord of catch and return (sumbrada, variaties op basis technieken)
+- Probleem oplossen (sparren e.d.)
 
 ----
-## Manier van Lesgeven
+### Body
+Je lichaam is een brug om jezelf beter te leren kennen. We zoeken dus een sterke connectie met ons lichaam. zonder dat we het in alle bochten wringen om er op een bepaalde manier uit te zien. 
+
+De kernwaardes waar we ons lichaam in trainen zijn:
+- Vrij bewegen door de ruimte door Creatief te bewegen, maar ook via specifieke bewegingen 
+- Fysiek sterk zijn door een stevige mind muscle connection op te bouwen via de Time under tention methode en Door ruimte te vinden in bepaalde houdingen.
+- Een sterke Connectie met ademhalin door de grenzen van ademhaling op te zoeken
+
+
+### Mind
+Een aantal [[Ichigendo principes]] komen iedere les, maar ook daar buiten terug. 
+Deze principes zijn de rode draad binnen de "do" van Ichigendo
+
+Onze geest is de spiegel van onze waarneming van de wereld. Om de geest te trainen, en te ontwikkelen leggen we de focus op 5 pilaren
+- Empathie naar jezelf en anderen  (Zoek de 5)
+- Het vormen van behulpzame plaatjes en doelen
+- Het aansturen van ons lichaam aan de hand van de plaatjes die we maken (Mind to action)
+- Loslaten en ontspannen
+- Opdoen van Kennis. 
+
+----
+
+### Manier van Lesgeven
 Omdat Ichigendo een systeem voor zelfontwikeling is worden de lessen op een specifieke manier ingericht en wordt er les gegeven in een vaste Lesstructuur
 Het Circulair Lesplan werkt via een roulatie schema. Dit zodat de technieken en lessen steeds weer aan bod komen en op elkaar door boorduren.
 
@@ -40,33 +65,3 @@ De belangrijkste invloeden op het martial arts deel van ichigendo zijn in ieder 
 -   Sensei Rob de Wolff
 -   Sensei Rob Smulders
 -   Sifu Roy Robbesom
-
-
-# Wat kunnen we als we heel erg hoog zijn in ichigendo
-Ichigendo bestaat uit 3 pilaren die wanneer samengevoegd je steeds dichter brengen bij wat het is om mens te zijn. 
-Deze pilaren zijn martial arts, Boy en Mind
-
-## Martial Arts
-Een goede martial artist kan contact maken met de ander en binnen de techniek nonverbaal communiceren. Ziet steeds meer diepgang in de techniek en kan problemen in een gevecht oplossen als een puzzel. 
-
-De kernpunten binnen onze martial arts zijn dus.
-- Diepgang  en begrip Zoeken (de aha momenten)
-- Samenwerking (sinawali of meegaan met een worp)
-- Vraag en antwoord of catch and return (sumbrada, variaties op basis technieken)
-- Probleem oplossen (sparren e.d.)
-
-## Body
-Je lichaam is een brug om jezelf beter te leren kennen. We zoeken dus een sterke connectie met ons lichaam. zonder dat we het in alle bochten wringen om er op een bepaalde manier uit te zien. 
-
-De kernwaardes waar we ons lichaam in trainen zijn:
-- Vrij bewegen door de ruimte door Creatief te bewegen, maar ook via specifieke bewegingen 
-- Fysiek sterk zijn door een stevige mind muscle connection op te bouwen via de Time under tention methode en Door ruimte te vinden in bepaalde houdingen.
-- Een sterke Connectie met ademhalin door de grenzen van ademhaling op te zoeken
-
-## Mind
-Onze geest is de spiegel van onze waarneming van de wereld. Om de geest te trainen, en te ontwikkelen leggen we de focus op 5 pilaren
-- Empathie naar jezelf en anderen  (Zoek de 5)
-- Het vormen van behulpzame plaatjes en doelen
-- Het aansturen van ons lichaam aan de hand van de plaatjes die we maken (Mind to action)
-- Loslaten en ontspannen
-- Opdoen van Kennis. 
