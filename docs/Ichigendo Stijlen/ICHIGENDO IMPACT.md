@@ -1,5 +1,2 @@
-
-
-# Play
 - [[tikkertje]]
 - [[Sparring progression]]

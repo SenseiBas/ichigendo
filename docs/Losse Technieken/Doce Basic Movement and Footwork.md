@@ -1,6 +1,8 @@
-#single_stick 
+---
+tag: single_stick/A, knife/A, double_weapon/A
+---
  
-# Basis Standen Eskrima
+## Basis Standen Eskrima
 1.  Salut
 2.  Natural Stance
 3.  Ready Stance
@@ -12,11 +14,8 @@
 9.  Straddle (Cross Block)
 ---
 
-#single_stick 
-#knife
-#double_weapon
-  
-# Footwork eskrima
+
+## Footwork eskrima
 - Body angling
 - Pundo  Rechts Links 
 - Vooruit (abanti)en Achteruit(atarra)

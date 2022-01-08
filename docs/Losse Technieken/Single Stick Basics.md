@@ -1,4 +1,6 @@
-  
+---
+tag: single_stick/A
+---
 # Basic Striking and blocking
 ## Basic Striking
 - Punjo, Tip, Edge,

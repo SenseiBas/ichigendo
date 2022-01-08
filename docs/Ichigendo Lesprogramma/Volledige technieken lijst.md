@@ -75,7 +75,7 @@ tag:#single_stick
 ## Single Stick
 - [[Abcedarios]]
 - [[Clearings]]
-- [[Doce Basic Movement and  Pares Footwork]]
+- [[Doce Basic Movement and Footwork]]
 - [[Doce Pares Solo drills]]
 - [[estocada solo olisi]]
 - [[Inosanto Knife Drills]]
@@ -92,7 +92,7 @@ tag:#knife
 ```
  
 ## knife
-- [[Doce Basic Movement and  Pares Footwork]]
+- [[Doce Basic Movement and Footwork]]
 - [[Four Walls Blocking]]
 - [[Inosanto Knife Drills]]
 - [[Knife Disarming]]
@@ -110,11 +110,4 @@ tag:#double_weapon
 ^## Double Weapon
 - [[$filename]]
 ```
- 
-## Double Weapon
-- [[Banga Banga]]
-- [[Doce Basic Movement and  Pares Footwork]]
-- [[Inosanto Knife Drills]]
-- [[Sinawali drills]]
- 
 <--->

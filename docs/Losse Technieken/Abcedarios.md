@@ -1,4 +1,6 @@
-  
+---
+tag: single_stick/A
+---
 # Abcedario fundamentals
 - [[Doce Pares aanvalspunten 1 tot en met 12]]
 - Blocking 1 tm 12
@@ -20,5 +22,3 @@
 # Abcedario Play Drills
 - Block Speed Counter 1 tm 12
 - flow block en counter
-
-#single_stick 

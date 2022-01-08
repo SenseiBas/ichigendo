@@ -1,7 +1,7 @@
 t/m Groene band
 # single stick
 - [[Single Stick Basics]]
-- [[Doce Basic Movement and  Pares Footwork]]
+- [[Doce Basic Movement and Footwork]]
 - [[Doce Pares Solo drills]]
 - [[Abcedarios]]
 - [[Olisi Disarms & Locks]]
@@ -9,6 +9,7 @@ t/m Groene band
 - [[estocada solo olisi]]
 - [[Sumbrada Drills]]
 - [[Clearings]]
+- [[Sayaw]]
 
 # Double Weapon
 - [[Sinawali drills]]

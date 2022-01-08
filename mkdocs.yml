@@ -27,7 +27,6 @@ extra_css:
 markdown_extensions:
   - footnotes
   # - attr_list
-  - pymdownx.critic
   # - pymdownx.arithmatex
   # - pymdownx.superfences
   # - pymdownx.details
@@ -41,5 +40,5 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  - search
+  #- search (deze nog goed instellen want ik gebruik wel spaties)
   - roamlinks 

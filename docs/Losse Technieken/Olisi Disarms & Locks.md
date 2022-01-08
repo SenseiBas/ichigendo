@@ -1,4 +1,6 @@
-  #single_stick 
+---
+tag: single_stick/A
+---
 # Olisi Disarms
 - 1st disarm (onder de oksel)
 - 2nd disarm (Gunying)
