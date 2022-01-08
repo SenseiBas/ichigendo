@@ -1,4 +1,4 @@
-# MATCH Knife tm Level 1
+## MATCH Knife tm Level 1
 - [[Knife Grips]]
 - [[Four Walls Blocking]] 
 - [[Knife Footwork]]
@@ -13,7 +13,7 @@
 
 ---
 
-### MATCH Knife Level 2
+## MATCH Knife Level 2
 
 **Grips**
 1. Heaven hand switch

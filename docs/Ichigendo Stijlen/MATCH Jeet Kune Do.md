@@ -1,4 +1,4 @@
-# JUN FAN JEET KUNE DO LEVEL tot en met level 1 
+## JUN FAN JEET KUNE DO LEVEL tot en met level 1 
 - [[JKD Stand en voetenwerk]]
 - [[Trapping]]
 - [[Sensitivity & Energy drills]]
@@ -10,7 +10,7 @@
 - [[JKDAanvalspunten]]
 
 
-# JUN FAN JEET KUNE DO LEVEL 2 
+## JUN FAN JEET KUNE DO LEVEL 2 
 ## 2.1 Stand en voetenwerk 
 1. Push step Vooruit Achteruit Vooruit met stoot Achteruit met stoot 
 2. 2. Pendulum step Vooruit Achteruit Eerst achteruit en vervolgens vooruit met sidekick 

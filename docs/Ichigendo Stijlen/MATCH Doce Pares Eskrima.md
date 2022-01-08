@@ -1,5 +1,5 @@
 t/m Groene band
-# single stick
+## single stick
 - [[Single Stick Basics]]
 - [[Doce Basic Movement and Footwork]]
 - [[Doce Pares Solo drills]]
@@ -11,14 +11,14 @@ t/m Groene band
 - [[Clearings]]
 - [[Sayaw]]
 
-# Double Weapon
+## Double Weapon
 - [[Sinawali drills]]
 - [[Banga Banga]]
 
-# Knife
+## Knife
 - [[mes aanvallen en blokken eskrima]]
 
-# Empty Hand
+## Empty Hand
 - ![[MATCH Pangamut System]]
 
 
