@@ -13,7 +13,7 @@ t/m Groene band
 
 ## Double Weapon
 - [[Sinawali drills]]
-- [[Banga Banga]]
+- [[vault/docs/Losse Technieken/Banga Banga]]
 
 ## Knife
 - [[mes aanvallen en blokken eskrima]]

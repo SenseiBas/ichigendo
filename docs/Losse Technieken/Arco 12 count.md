@@ -1,4 +1,6 @@
-  
+---
+tag: single_stick
+---
 # arco series
 - arco 4 count
 - arco 12 count

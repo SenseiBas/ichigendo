@@ -1,5 +1,8 @@
+---
+tags: impact/B
+---
  
-# pangamut aanvallen
+## pangamut aanvallen
 - Jab, 
 - Cross, 
 - Hook, 

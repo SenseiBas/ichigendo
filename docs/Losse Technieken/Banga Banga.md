@@ -1,5 +1,7 @@
-#double_weapon   
-# banga banga
+---
+tag: double_weapon/A 
+---
+## banga banga
  1 tm 4:*Stick - Knife*
 - High - High
 - High - Low
@@ -14,4 +16,5 @@
 
 **Advanced**
 Feeding variations met draaien of random feed
+
 ---

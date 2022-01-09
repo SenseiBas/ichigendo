@@ -1,5 +1,10 @@
 # ICHIGENDO
 
+**Test emmed**
+[[Abcedarios#Largo Mano]]
+![[Abcedarios#Largo Mano]]
+
+
 Ichigendo is een compleet systeem voor zelfontwikkeling door middel van [[Martial Arts]].
 Ichigendo is een combinatie van Martial Arts training, Lichamelijke training en Mentale training.
 

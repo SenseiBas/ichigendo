@@ -31,7 +31,7 @@ tag:#manipulaties
 ```
  
 ## manipulaties
-- [[Clinching Chaining Drills]]
+- [[Clinching Game]]
 - [[Hanging and climbing]]
 - [[JKD Polsklemmen]]
 - [[klemmen]]
