@@ -1,5 +1,5 @@
 ---
-tags: impact/B
+tags: impact/B, impact/kids
 ---
  
 ## pangamut aanvallen

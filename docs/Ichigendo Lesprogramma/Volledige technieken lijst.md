@@ -1,22 +1,19 @@
+## Impact
 ```expander
-tag:#impact
-^## Impact
+tag:#impact/A
+^### Impact technieken A:Aanval Verdedinging
 - [[$filename]]
 ```
  
-## Impact
-- [[2 count combi serie]]
-- [[Impact Pressure Games]]
+### Impact technieken A:Aanval Verdedinging
 - [[JKD Basisblokken]]
 - [[JKD Stand en voetenwerk]]
 - [[JKD Uitwijkbewegingen]]
 - [[JKDAanvalspunten]]
-- [[Jun Fan (Kick)Boxing]]
 - [[Pangamot uitwijk bewegingen]]
 - [[Pangamut Defend]]
 - [[Parry and Covers]]
 - [[Physical sensation Drills]]
-- [[Sparring progression]]
 - [[The five ways of attack]]
 - [[Trapping]]
 - [[walking balance]]
@@ -25,45 +22,19 @@ tag:#impact
 <--->
 
 ```expander
-tag:#manipulaties
-^## manipulaties
+tag:#impact/B
+^### Impact technieken B:Spar en Drill
 - [[$filename]]
 ```
  
-## manipulaties
-- [[Clinching Game]]
-- [[Hanging and climbing]]
-- [[JKD Polsklemmen]]
-- [[klemmen]]
-- [[Lift Carry Throw Catch]]
-- [[Pops and Pulls]]
-- [[Protect yourself Drills]]
-- [[Transport]]
-- [[Vallen vanuit verschillende worpen]]
-- [[worpen en overnames]]
- 
-<--->
-
-```expander
-tag:#Grappling
-^## Grappling
-- [[$filename]]
-```
- 
-## Grappling
-- [[base building games]]
-- [[floor movement]]
-- [[Floor rolls]]
-- [[Grappling basic movement]]
-- [[Grondposities]]
-- [[JKD Grappling basis grondwerk]]
-- [[JKD Grappling grondposities]]
-- [[JKD Locks Vanuit de clinch]]
-- [[JKD Locks vanuit de turtle position (op handen en knieën)]]
-- [[JKD Rolling and Grappling]]
-- [[Omgaan met posities spel]]
-- [[vaulting]]
-- [[verdediging vanvaf de grond tegen staande aanvaller]]
+### Impact technieken B:Spar en Drill
+- [[2 count combi serie]]
+- [[Impact Pressure Games]]
+- [[Jun Fan (Kick)Boxing]]
+- [[pangamot Kickboksing]]
+- [[Sensitivity & Energy drills]]
+- [[Sparring progression]]
+- [[walking balance]]
  
 <--->
 ```expander
@@ -74,6 +45,7 @@ tag:#single_stick
  
 ## Single Stick
 - [[Abcedarios]]
+- [[Arco 12 count]]
 - [[Clearings]]
 - [[Doce Basic Movement and Footwork]]
 - [[Doce Pares Solo drills]]
@@ -81,8 +53,10 @@ tag:#single_stick
 - [[Inosanto Knife Drills]]
 - [[Linear Strikes]]
 - [[Olisi Disarms & Locks]]
+- [[Sayaw]]
 - [[Single Stick Basics]]
 - [[Sumbrada Drills]]
+- [[target families]]
  
 <--->
 ```expander
@@ -110,4 +84,13 @@ tag:#double_weapon
 ^## Double Weapon
 - [[$filename]]
 ```
+ 
+## Double Weapon
+- [[Attacker - Sinawali]]
+- [[Banga Banga]]
+- [[Doce Basic Movement and Footwork]]
+- [[Inosanto Knife Drills]]
+- [[Shield and weapon theorie]]
+- [[Sinawali drills]]
+ 
 <--->

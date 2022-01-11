@@ -2,4 +2,4 @@ Belangrijk om niet alleen op te tillen en vast te houden, maar ook objecten meep
 
 Knots en Ballen tillen en gooien
 
-#manipulaties 
+#manipulaties #manipulaties/kids 

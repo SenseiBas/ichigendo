@@ -1,9 +1,11 @@
+
+
+#manipulaties/B,  #manipulaties/kids
+
 Wrist, Neck and Wrist, Neck and so on 
 - [[Clinching Game]]
 - Arm Drag
 - [[Grappling]]
-
-#manipulaties/B
 
 - Keep the Chain
 - Break the Chain (Balans verstoren - trekken - Cirkelen - Atami)

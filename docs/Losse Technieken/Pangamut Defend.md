@@ -1,4 +1,4 @@
-  #impact/A 
+  #impact/A #impact/kids 
 # pangamut ellebogen en knieen
 **Elleboog technieken**
 1) Opwaarts

@@ -1,3 +1,6 @@
+#single_stick/B 
+
+
 **Eskrima namen**
 - Regular, alles hoog
 - Broken is altijd de ander als 2e dus H-L

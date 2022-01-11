@@ -1,4 +1,4 @@
-#double_weapon   
+#double_weapon/B 
 # Open 4 Count
 - Regular - 4x H
 - Broken - HL  HL

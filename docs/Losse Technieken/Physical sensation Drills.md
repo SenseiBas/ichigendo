@@ -1,5 +1,5 @@
 ---
-tag: impact/A
+tag: impact/A, impact/kids
 ---
 
 **Kennis maken met de lichamelijke sensaties van fysieke weerbaarheid**

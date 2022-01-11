@@ -3,4 +3,4 @@
 - Tight Cover Wide Cover
 - Helmet
 
-#impact/A 
+#impact/A #impact/kids 

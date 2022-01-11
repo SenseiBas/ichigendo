@@ -5,4 +5,4 @@
 6) kan Uchi kaiten, Soto kaiten, opzet worp zonder mat
 
 
-#manipulaties 
+#manipulaties, #manipulaties/kids 

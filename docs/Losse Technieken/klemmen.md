@@ -1,4 +1,4 @@
-#manipulaties 
+#manipulaties #manipulaties/kids 
 
 # Losse Technieken
 1) Ikkyo

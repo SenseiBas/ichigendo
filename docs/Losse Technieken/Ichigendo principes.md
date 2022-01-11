@@ -1,4 +1,5 @@
 ### De Ichigendo Basis Principes
+#mind 
   
    1) [[Elke situatie is een nieuw Uitgangspunt]]
    2) [[zoek de 5]]

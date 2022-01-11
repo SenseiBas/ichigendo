@@ -1,4 +1,4 @@
-#manipulaties 
+#manipulaties  #manipulaties/kids 
 
 **Level 1**
 Vanuit zittend kantel worp

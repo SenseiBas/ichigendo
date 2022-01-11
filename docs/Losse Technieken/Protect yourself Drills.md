@@ -1,4 +1,4 @@
-#manipulaties/A
+#manipulaties/A #manipulaties/kids 
 1) loskomen van grepen op een 3
 2) opvangen en ontwijken van duwen en aanvallen 1tm 3
 3) Oplossen van grepen, duwen en aanvallen 1 tm 3

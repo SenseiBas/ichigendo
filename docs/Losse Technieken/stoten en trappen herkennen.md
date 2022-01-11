@@ -1,8 +1,0 @@
-- jab
-- cross
-- hook
-- uppercut
-- overhead
-- Frontkick
-- Side kick
-- Roundhouse Kick

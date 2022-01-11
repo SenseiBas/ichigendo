@@ -1,4 +1,4 @@
-#grappling 
+#grappling, #grappling/kids 
 
 Meedraaien op de rug
 	- ontsnap tussen de benen

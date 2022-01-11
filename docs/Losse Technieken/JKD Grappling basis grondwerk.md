@@ -1,4 +1,4 @@
-#grappling 
+#grappling #grappling/kids 
 #vragen_marcel
 
 - Sidebend sit - Getup -Reverse switch

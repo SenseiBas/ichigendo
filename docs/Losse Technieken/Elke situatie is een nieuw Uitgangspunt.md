@@ -1,3 +1,5 @@
+#mind
+
 Vooral in martial arts is het zo dat er vaak getraind wordt vanuit een "ready stance" oftewel een alerte voorbereide houding. 
 
 Dit is in het echte leven natuurlijk anders. Een aanval, ongeval of vervelende situatie gebeurt altijd onverwacht en meestal zelfs op een moment dat het totaal niet uitkomt. 
