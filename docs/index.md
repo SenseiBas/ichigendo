@@ -10,7 +10,7 @@ Binnen ieder blok worden er "empty hand" en "gewapende" technieken getraind.
 
 Een goede martial artist kan contact maken met de ander en binnen de techniek nonverbaal communiceren. Ziet steeds meer diepgang in de techniek en kan problemen in een gevecht oplossen als een puzzel. 
 
-De kernpunten binnen onze martial arts zijn dus.
+De kernpunten binnen onze martial arts zijn:
 - Diepgang  en begrip Zoeken (de aha momenten)
 - Samenwerking (sinawali of meegaan met een worp)
 - Vraag en antwoord of catch and return (sumbrada, variaties op basis technieken)
@@ -18,16 +18,16 @@ De kernpunten binnen onze martial arts zijn dus.
 
 ----
 ### Body
-Je lichaam is een brug om jezelf beter te leren kennen. We zoeken dus een sterke connectie met ons lichaam. zonder dat we het in alle bochten wringen om er op een bepaalde manier uit te zien. 
+Je lichaam is een brug om jezelf beter te leren kennen. We zoeken dus een sterke connectie met ons lichaam. Het is belangrijker om ergens in te kunnen klimmen, of iets zwaars te verplaatsen dan om er als een fotomodel uit te zien.
 
 De kernwaardes waar we ons lichaam in trainen zijn:
-- Vrij bewegen door de ruimte door Creatief te bewegen, maar ook via specifieke bewegingen 
-- Fysiek sterk zijn door een stevige mind muscle connection op te bouwen via de Time under tention methode en Door ruimte te vinden in bepaalde houdingen.
-- Een sterke Connectie met ademhalin door de grenzen van ademhaling op te zoeken
+- Vrij bewegen door de ruimte door creatief te bewegen, maar ook via specifieke bewegingen 
+- Fysiek sterk zijn door een stevige 'mind muscle-connection' op te bouwen via de 'time under tention methode' en door ruimte te vinden in bepaalde houdingen.
+- Een sterke connectie met ademhaling.
 
 
 ### Mind
-Een aantal [[Ichigendo principes]] komen iedere les, maar ook daar buiten terug. 
+Een aantal [[Ichigendo principes]] komen iedere les, maar ook daarbuiten terug. 
 Deze principes zijn de rode draad binnen de "do" van Ichigendo
 
 Onze geest is de spiegel van onze waarneming van de wereld. Om de geest te trainen, en te ontwikkelen leggen we de focus op 5 pilaren
@@ -35,12 +35,12 @@ Onze geest is de spiegel van onze waarneming van de wereld. Om de geest te train
 - Het vormen van behulpzame plaatjes en doelen
 - Het aansturen van ons lichaam aan de hand van de plaatjes die we maken (Mind to action)
 - Loslaten en ontspannen
-- Opdoen van Kennis. 
+- Opdoen van kennis. 
 
 ----
 
 ### Manier van Lesgeven
-Omdat Ichigendo een systeem voor zelfontwikeling is worden de lessen op een specifieke manier ingericht en wordt er les gegeven in een vaste Lesstructuur
+Omdat Ichigendo een systeem voor zelfontwikkeling is worden de lessen op een specifieke manier ingericht en wordt er les gegeven in een vaste lesstructuur
 Het Circulair Lesplan werkt via een roulatie schema. Dit zodat de technieken en lessen steeds weer aan bod komen en op elkaar door boorduren.
 
 **Banden zijn niet belangrijk**
