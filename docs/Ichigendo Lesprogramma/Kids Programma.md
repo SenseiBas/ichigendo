@@ -13,7 +13,7 @@ tag:#impact/kids
 - [[Pangamot uitwijk bewegingen]]
 - [[Pangamut Defend]]
 - [[Parry and Covers]]
-- [[Physical sensation Drills]]
+- [[Impact Play Drills]]
 - [[Sensitivity & Energy drills]]
 - [[Sparring progression]]
 - [[thai series]]

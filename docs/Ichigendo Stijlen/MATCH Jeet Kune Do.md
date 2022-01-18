@@ -7,7 +7,7 @@
 - [[JKD Basisblokken]]
 - [[JKD Uitwijkbewegingen]] 
 - [[JKD Grappling]]
-- [[JKDAanvalspunten]]
+- [[JKD Aanvalspunten]]
 
 
 ## JUN FAN JEET KUNE DO LEVEL 2 

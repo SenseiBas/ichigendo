@@ -12,3 +12,8 @@ Onderstaand zie je meteen de levels staan die gevraagd worden.
  6) Tegen de muur
  7) Op de grond
  8) Cominatie van aanvallen
+
+**Laten gaan of ingrijpen**
+Tegenstander duwt aantal keren en valt dan al dan niet aan. 
+Wanneer grijp je in?
+Wissel ook door

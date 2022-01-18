@@ -4,15 +4,15 @@ tag:#impact/A
 - [[$filename]]
 ```
  
-## Impact A technieken (aanvaller verdediger)
+## [[Impact A technieken -aanvaller verdediger]]
 - [[JKD Basisblokken]]
 - [[JKD Stand en voetenwerk]]
 - [[JKD Uitwijkbewegingen]]
-- [[JKDAanvalspunten]]
+- [[JKD Aanvalspunten]]
 - [[Pangamot uitwijk bewegingen]]
 - [[Pangamut Defend]]
 - [[Parry and Covers]]
-- [[Physical sensation Drills]]
+- [[Impact Play Drills]]
 - [[The five ways of attack]]
 - [[Trapping]]
 - [[walking balance]]

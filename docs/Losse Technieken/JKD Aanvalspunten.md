@@ -1,6 +1,5 @@
 #impact/A
- 
-# JKD Aanvals Punten 1 t/m 12 
+
 - gestrekte vingers naar de ogen ( eye jab) 
 - half knuckle naar de keel 
 - hamervuist naar het kruis 

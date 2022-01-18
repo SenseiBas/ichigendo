@@ -22,7 +22,4 @@
 **Guntings**
 1) twee rechts
 2) twee links
-
-#impact 
-
 ---

@@ -6,7 +6,4 @@
 - 7+8 Outside + Check
 - 9+10 Reverse Check 
 - 11+12 Outside + Groin
-
-#impact/A 
-
 --- 

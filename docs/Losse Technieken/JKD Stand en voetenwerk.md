@@ -16,5 +16,5 @@ De groet Uitvoering:
 
 ---
   
-- [[ JKD Rolling and Grappling]]
+- ![[ JKD Rolling and Grappling]]
  
